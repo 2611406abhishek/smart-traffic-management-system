@@ -181,5 +181,4 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 For questions or suggestions, contact:
 
 - **Name**: Ashish
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Email**: [abhishek.soni2501@example.com](mailto:abhishek.soni2501@example.com)
