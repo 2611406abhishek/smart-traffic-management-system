@@ -180,5 +180,5 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 For questions or suggestions, contact:
 
-- **Name**: Ashish
+- **Name**: Abhishek Soni
 - **Email**: [abhishek.soni2501@example.com](mailto:abhishek.soni2501@example.com)
